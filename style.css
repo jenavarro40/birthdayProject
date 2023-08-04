@@ -1,0 +1,29 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height: 100vh;
+    width: auto;
+
+}
+.time{
+    position: absolute;
+    top: 89%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 47%;
+    color:brown;
+    font-size:large ;
+
+}
+.time li{
+    display: inline;
+    text-decoration: none; 
+    padding-left: 0.5%;    
+
+}
